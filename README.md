@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 📚 Keep learning ...
 
 [![cong's github stats](https://github-readme-stats.vercel.app/api?username=cong&theme=calm&hide_border=true)](https://github.com/cong)
-[![cong's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cong&theme=calm&hide_border=true)](https://github.com/cong)
+
+<!-- [![cong's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cong&theme=calm&hide_border=true)](https://github.com/cong) -->
