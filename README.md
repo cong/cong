@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Happy everyday ...
 - 📚 Keep learning ...
 
-<p align="center">
+<!-- <p align="center"> -->
 <!-- [![cong's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cong&theme=calm&hide_border=true)](https://github.com/cong) -->/
 <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cong&count_private=true&include_all_commits=true&show_icons=true&theme=dark" /> -->
-</p>
+<!-- </p> -->
